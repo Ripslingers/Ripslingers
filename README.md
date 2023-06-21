@@ -11,5 +11,5 @@ Selamlar! Ben Tunahan, 17 yaşında ve yazılım sektöründe erken başlayan bi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ripslingers&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ripslingers&label=Profile%20Views%20:%205987&color=10&)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ripslingers&label=Profile%20Views%20:%201402&color=10&)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
